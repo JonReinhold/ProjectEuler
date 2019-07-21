@@ -1,1 +1,3 @@
 # ProjectEuler
+
+Adventures in math. 
